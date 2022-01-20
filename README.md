@@ -1,6 +1,7 @@
 <p align="center">
      <h1 align='center'>FlickyTricky</h1>
 </p>
+
 <br>
 <p align='center'>
     <p align='center'>🕊️ FlickyTricky is an Modern Android 2D Shooting Game, which enables the user to move and shoot using Eye Guestor with Auto Pause and Resume when the user Face is Not Found </p>
