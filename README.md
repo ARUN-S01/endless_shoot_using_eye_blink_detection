@@ -1,14 +1,14 @@
 <p align="center">
-     <h1 align='center'>FlickyTricky</h1>
+     <h1 align='center'>FireBird</h1>
 </p>
 
 <br>
 <p align='center'>
-    <p align='center'>🕊️ FlickyTricky is an Modern Android 2D Shooting Game, which enables the user to move and shoot using Eye Guestor with Auto Pause and Resume when the user Face is Not Found </p>
+    <p align='center'>🕊️ FireBird is an Modern Android 2D Shooting Game, which enables the user to move and shoot using Eye Guestor with Auto Pause and Resume when the user Face is Not Found </p>
  </p>
  <br>
 <p align="center">
-  <img width="750" src="https://user-images.githubusercontent.com/81013192/150317119-b003293e-f6ac-4549-bcd6-078178cd54db.jpg" alt="FlickyTrickt logo">
+  <img width="750" src="https://user-images.githubusercontent.com/81013192/150317119-b003293e-f6ac-4549-bcd6-078178cd54db.jpg" alt="FireBird logo">
 </p>
 <br>
 
