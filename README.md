@@ -12,6 +12,8 @@
 </p>
 <br>
 
+### Application Link: https://www.amazon.in/dp/B0BRQQVG4Q?ref_=cm_sw_r_cp_ud_sem_SJ09JS54G891JWFJHYRF 
+
 ## TechStack
 - Minimum SDK 21
 - [Google Play Service Vision](https://developers.google.com/android/reference/com/google/android/gms/vision/package-summary) is used to detect Eye Blink Detection
